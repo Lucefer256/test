@@ -1,1 +1,2 @@
-initialise
+initialise new command
+Hello World!
